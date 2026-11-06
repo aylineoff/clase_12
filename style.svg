@@ -1,0 +1,384 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 600">
+    <rect width="805" height="600" x="0" y="0" fill="#FFFFFF" id="background" />
+    <g transform="translate(402.5,300)" id="viz">
+        <path
+            fill="#1f77b4"
+            display=""
+            d="M1,-191.331A191.333,191.333,0,0,1,180.787,62.647L91.499,31.183A96.667,96.667,0,0,0,1,-96.661Z"
+        >
+            <title>Américas</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M180.122,64.533A191.333,191.333,0,0,1,-165.197,96.531L-83.211,49.197A96.667,96.667,0,0,0,90.834,33.069Z"
+        >
+            <title>Europa</title>
+        </path>
+        <path
+            fill="#ff7f0e"
+            display=""
+            d="M-166.197,94.799A191.333,191.333,0,0,1,-111.362,-155.586L-56.665,-78.317A96.667,96.667,0,0,0,-84.211,47.465Z"
+        >
+            <title>Asia</title>
+        </path>
+        <path
+            fill="#d62728"
+            display=""
+            d="M-109.73,-156.741A191.333,191.333,0,0,1,-1,-191.331L-1,-96.661A96.667,96.667,0,0,0,-55.032,-79.473Z"
+        >
+            <title>Oceanía</title>
+        </path>
+        <path
+            fill="#1f77b4"
+            display=""
+            d="M1,-287.998A288,288,0,0,1,287.892,7.869L193.27,4.954A193.333,193.333,0,0,0,1,-193.331Z"
+        >
+            <title>Estados Unidos</title>
+        </path>
+        <path
+            fill="#1f77b4"
+            display=""
+            d="M287.831,9.868A288,288,0,0,1,277.278,77.853L186.224,51.946A193.333,193.333,0,0,0,193.208,6.953Z"
+        >
+            <title>Canadá</title>
+        </path>
+        <path
+            fill="#1f77b4"
+            display=""
+            d="M276.73,79.776A288,288,0,0,1,271.959,94.774L182.673,63.311A193.333,193.333,0,0,0,185.677,53.869Z"
+        >
+            <title>Argentina</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M271.294,96.661A288,288,0,0,1,71.217,279.056L48.126,187.248A193.333,193.333,0,0,0,182.008,65.198Z"
+        >
+            <title>Reino Unido</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M69.277,279.544A288,288,0,0,1,1,287.998L1,193.331A193.333,193.333,0,0,0,46.186,187.735Z"
+        >
+            <title>Alemania</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M-1,287.998A288,288,0,0,1,-69.277,279.544L-46.186,187.735A193.333,193.333,0,0,0,-1,193.331Z"
+        >
+            <title>Francia</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M-71.217,279.056A288,288,0,0,1,-119.463,262.054L-79.896,176.052A193.333,193.333,0,0,0,-48.126,187.248Z"
+        >
+            <title>Suiza</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M-121.28,261.218A288,288,0,0,1,-165.582,235.641L-110.885,158.374A193.333,193.333,0,0,0,-81.713,175.216Z"
+        >
+            <title>Suecia</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M-167.214,234.486A288,288,0,0,1,-193.284,213.507L-129.507,143.547A193.333,193.333,0,0,0,-112.518,157.218Z"
+        >
+            <title>Países Bajos</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M-194.762,212.16A288,288,0,0,1,-218.057,188.136L-146.166,126.544A193.333,193.333,0,0,0,-130.985,142.199Z"
+        >
+            <title>Irlanda</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M-219.358,186.618A288,288,0,0,1,-229.225,174.356L-153.679,117.306A193.333,193.333,0,0,0,-147.467,125.025Z"
+        >
+            <title>Bélgica</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M-230.43,172.76A288,288,0,0,1,-239.524,159.914L-160.609,107.623A193.333,193.333,0,0,0,-154.884,115.71Z"
+        >
+            <title>Italia</title>
+        </path>
+        <path
+            fill="#2ca02c"
+            display=""
+            d="M-240.628,158.247A288,288,0,0,1,-248.914,144.865L-166.929,97.531A193.333,193.333,0,0,0,-161.713,105.956Z"
+        >
+            <title>Dinamarca</title>
+        </path>
+        <path
+            fill="#ff7f0e"
+            display=""
+            d="M-249.914,143.133A288,288,0,0,1,-284.437,45.165L-190.889,30.643A193.333,193.333,0,0,0,-167.929,95.799Z"
+        >
+            <title>China</title>
+        </path>
+        <path
+            fill="#ff7f0e"
+            display=""
+            d="M-284.743,43.188A288,288,0,0,1,-284.743,-43.188L-191.196,-28.667A193.333,193.333,0,0,0,-191.196,28.667Z"
+        >
+            <title>Hong Kong</title>
+        </path>
+        <path
+            fill="#ff7f0e"
+            display=""
+            d="M-284.437,-45.165A288,288,0,0,1,-265.609,-111.337L-178.429,-74.437A193.333,193.333,0,0,0,-190.889,-30.643Z"
+        >
+            <title>Corea del Sur</title>
+        </path>
+        <path
+            fill="#ff7f0e"
+            display=""
+            d="M-264.829,-113.179A288,288,0,0,1,-230.43,-172.76L-154.884,-115.71A193.333,193.333,0,0,0,-177.65,-76.278Z"
+        >
+            <title>Japón</title>
+        </path>
+        <path
+            fill="#ff7f0e"
+            display=""
+            d="M-229.225,-174.356A288,288,0,0,1,-207.454,-199.767L-139.491,-133.866A193.333,193.333,0,0,0,-153.679,-117.306Z"
+        >
+            <title>Singapur</title>
+        </path>
+        <path
+            fill="#ff7f0e"
+            display=""
+            d="M-206.061,-201.203A288,288,0,0,1,-194.762,-212.16L-130.985,-142.199A193.333,193.333,0,0,0,-138.098,-135.302Z"
+        >
+            <title>Taiwán</title>
+        </path>
+        <path
+            fill="#ff7f0e"
+            display=""
+            d="M-193.284,-213.507A288,288,0,0,1,-181.332,-223.747L-121.983,-149.993A193.333,193.333,0,0,0,-129.507,-143.547Z"
+        >
+            <title>Malasia</title>
+        </path>
+        <path
+            fill="#ff7f0e"
+            display=""
+            d="M-179.774,-225.001A288,288,0,0,1,-167.214,-234.486L-112.518,-157.218A193.333,193.333,0,0,0,-120.425,-151.247Z"
+        >
+            <title>Arabia Saudita</title>
+        </path>
+        <path
+            fill="#d62728"
+            display=""
+            d="M-165.582,-235.641A288,288,0,0,1,-18.728,-287.39L-12.9,-192.903A193.333,193.333,0,0,0,-110.885,-158.374Z"
+        >
+            <title>Australia</title>
+        </path>
+        <path
+            fill="#d62728"
+            display=""
+            d="M-16.731,-287.514A288,288,0,0,1,-1,-287.998L-1,-193.331A193.333,193.333,0,0,0,-10.904,-193.026Z"
+        >
+            <title>Nueva Zelanda</title>
+        </path>
+    </g>
+    <g id="labels" transform="translate(402.5,300)" text-anchor="middle">
+        <text transform="rotate(90) translate(48.333333333333336,0) rotate(180)">
+            <tspan
+                x="0"
+                y="4"
+                style="
+                    font-family: Arial, sans-serif;
+                    font-size: 10px;
+                    fill: black;
+                    font-weight: normal;
+                    font-style: italic;
+                "
+            />
+        </text>
+        <text transform="rotate(-35.294117647058826) translate(145,0) rotate(0)">
+            <tspan
+                x="0"
+                y="4"
+                style="
+                    font-family: Arial, sans-serif;
+                    font-size: 10px;
+                    fill: black;
+                    font-weight: normal;
+                    font-style: italic;
+                "
+            >
+                Américas
+            </tspan>
+        </text>
+        <text transform="rotate(84.70588235294116) translate(145,0) rotate(0)">
+            <tspan
+                x="0"
+                y="4"
+                style="
+                    font-family: Arial, sans-serif;
+                    font-size: 10px;
+                    fill: black;
+                    font-weight: normal;
+                    font-style: italic;
+                "
+            >
+                Europa
+            </tspan>
+        </text>
+        <text transform="rotate(192.3529411764706) translate(145,0) rotate(180)">
+            <tspan
+                x="0"
+                y="4"
+                style="
+                    font-family: Arial, sans-serif;
+                    font-size: 10px;
+                    fill: black;
+                    font-weight: normal;
+                    font-style: italic;
+                "
+            >
+                Asia
+            </tspan>
+        </text>
+        <text transform="rotate(252.35294117647055) translate(145,0) rotate(180)">
+            <tspan
+                x="0"
+                y="4"
+                style="
+                    font-family: Arial, sans-serif;
+                    font-size: 10px;
+                    fill: black;
+                    font-weight: normal;
+                    font-style: italic;
+                "
+            >
+                Oceanía
+            </tspan>
+        </text>
+        <text transform="rotate(-44.11764705882353) translate(241.66666666666669,0) rotate(0)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Estados Unidos
+            </tspan>
+        </text>
+        <text transform="rotate(8.82352941176471) translate(241.66666666666669,0) rotate(0)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Canadá
+            </tspan>
+        </text>
+        <text transform="rotate(17.647058823529406) translate(241.66666666666669,0) rotate(0)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Argentina
+            </tspan>
+        </text>
+        <text transform="rotate(47.64705882352939) translate(241.66666666666669,0) rotate(0)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Reino Unido
+            </tspan>
+        </text>
+        <text transform="rotate(82.94117647058823) translate(241.66666666666669,0) rotate(0)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Alemania
+            </tspan>
+        </text>
+        <text transform="rotate(97.05882352941174) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Francia
+            </tspan>
+        </text>
+        <text transform="rotate(109.41176470588235) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Suiza
+            </tspan>
+        </text>
+        <text transform="rotate(120) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Suecia
+            </tspan>
+        </text>
+        <text transform="rotate(128.8235294117647) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Países Bajos
+            </tspan>
+        </text>
+        <text transform="rotate(135.8823529411765) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Irlanda
+            </tspan>
+        </text>
+        <text transform="rotate(141.1764705882353) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Bélgica
+            </tspan>
+        </text>
+        <text transform="rotate(144.70588235294116) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Italia
+            </tspan>
+        </text>
+        <text transform="rotate(148.23529411764704) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Dinamarca
+            </tspan>
+        </text>
+        <text transform="rotate(160.58823529411765) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                China
+            </tspan>
+        </text>
+        <text transform="rotate(180) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Hong Kong
+            </tspan>
+        </text>
+        <text transform="rotate(195.88235294117646) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Corea del Sur
+            </tspan>
+        </text>
+        <text transform="rotate(209.99999999999994) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Japón
+            </tspan>
+        </text>
+        <text transform="rotate(220.58823529411762) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Singapur
+            </tspan>
+        </text>
+        <text transform="rotate(225.8823529411764) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Taiwán
+            </tspan>
+        </text>
+        <text transform="rotate(229.41176470588232) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Malasia
+            </tspan>
+        </text>
+        <text transform="rotate(232.94117647058818) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Arabia Saudita
+            </tspan>
+        </text>
+        <text transform="rotate(250.58823529411768) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Australia
+            </tspan>
+        </text>
+        <text transform="rotate(268.235294117647) translate(241.66666666666669,0) rotate(180)">
+            <tspan x="0" y="4" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold">
+                Nueva Zelanda
+            </tspan>
+        </text>
+    </g>
+</svg>
